@@ -1,0 +1,25 @@
+.directory-item{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.menu-item{
+    border-style: solid;
+    border-width: 2px;
+    padding: 1rem;
+    margin: 8px;
+    height: 300px;
+    width: 300px;
+    
+    
+    
+}
+
+.content{
+    border-style: solid;
+    border-width: 2px;
+    width: 175px;
+    height: 70px;
+    margin: 0 auto;
+    
+}
