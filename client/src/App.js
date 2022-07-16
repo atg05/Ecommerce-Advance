@@ -1,15 +1,7 @@
-
-import './App.css';
-import Homepage from './components/pages/homepage/homepage.components';
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-    <Homepage />
-     
-      
-    </div>
-  );
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
 
 export default App;
